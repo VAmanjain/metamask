@@ -1,4 +1,4 @@
-## Metaamask
+## Metamask
 
 -----------------
 
